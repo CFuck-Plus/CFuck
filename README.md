@@ -1,7 +1,7 @@
 # CFuck
 中文互联网上的C++被称为C艹。In China Internet another name most people callC++ is Cfuck
 
-**注意:这个编译器不是在开玩笑，您真的可以编写JVAV代码并编译为exe和Linux程序发行**
+**注意:这个编译器不是在开玩笑，您真的可以编写C艹/CFuck代码并编译为exe和Linux程序发行**
 
 **官方开发者文档**
 
